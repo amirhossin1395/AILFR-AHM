@@ -1,5 +1,4 @@
-# AILFR-AHM
----
+
 # 🤖 AILFR-AHM
 
 **Artificial Intelligence Line Finder Robot** - AHM

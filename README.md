@@ -38,11 +38,9 @@ python 01_generate_data.py
 python 02_train_model.py
 python 03_export_weights.py
 ```
-###مرحله ۲: آپلود روی آردوینو
+##مرحله ۲: آپلود روی آردوینو
 Arduino IDE رو باز کن
-
 فایل arduino/AILFR-AHM.ino رو باز کن
-
 برد و پورت رو انتخاب کن
 
 آپلود کن!
